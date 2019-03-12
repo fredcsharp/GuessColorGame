@@ -54,9 +54,6 @@ for (var i = 0; i < cubes.length; i++) {
 
 
 
-
-
-
 function reset() {
 	colors = generateRandomColors(numbCubes);
 
